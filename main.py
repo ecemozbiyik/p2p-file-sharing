@@ -89,15 +89,15 @@ class P2PFileSharingApp(QMainWindow):
             logging.error("Please fill in all fields to send a file.")
 
     def receive_file(self):
-        save_path = QFileDialog.getExistingDirectory(self, "Select Save Directory")
+        save_directory = QFileDialog.getExistingDirectory(self, "Select Save Directory")
         port = int(self.port_input.text())
 
-        if save_path and port:
-            save_path += "/received_file.txt"
-            threading.Thread(target=receive_file, args=(save_path, port), daemon=True).start()
-            logging.info(f"Ready to receive file at: {save_path} on port {port}")
+        if save_directory and port:
+            threading.Thread(target=receive_file, args=(save_directory, port), daemon=True).start()
+            logging.info(f"Ready to receive file in directory: {save_directory} on port {port}")
         else:
             logging.error("Please select a directory and enter a port to receive a file.")
+
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
