@@ -1,0 +1,52 @@
+2025-01-05 16:09:18,137 - INFO - [Sender] Sending metadata: named.txt|11
+2025-01-05 16:09:18,138 - INFO - [Receiver] Metadata received: named.txt|11
+2025-01-05 16:09:18,139 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/named.txt sent successfully.
+2025-01-05 16:09:18,140 - INFO - [Receiver] File received and saved to C:/Users/Dell/Downloads/cs 410 (2)\named.txt.
+2025-01-05 16:11:12,318 - INFO - [Sender] Sending metadata: test.txt|13
+2025-01-05 16:11:12,320 - ERROR - [Sender] Error during file sending: [WinError 10053] Kurulan bir baðlantý, ana makinenizdeki yazýlým tarafýndan iptal edildi
+2025-01-05 16:11:52,139 - INFO - [Sender] Sending metadata: test.txt|13
+2025-01-05 16:11:52,139 - ERROR - [Sender] Error during file sending: [WinError 10053] Kurulan bir baðlantý, ana makinenizdeki yazýlým tarafýndan iptal edildi
+2025-01-05 16:27:28,894 - INFO - [Sender] Sending metadata: named.txt|11
+2025-01-05 16:27:28,894 - INFO - [Receiver] Metadata received: named.txt|11
+2025-01-05 16:27:28,895 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/named.txt sent successfully.
+2025-01-05 16:27:28,896 - INFO - [Receiver] File received and saved to received_files\named.txt.
+2025-01-05 16:27:28,896 - INFO - [Sender] Receiver confirmed file received.
+2025-01-05 16:30:01,351 - INFO - [Sender] Sending metadata: test.txt|13
+2025-01-05 16:30:01,351 - ERROR - [Sender] Error during file sending: [WinError 10038] Bir iþlem yuva olmayan bir öðe üzerinde denendi
+2025-01-05 16:30:41,514 - INFO - [Sender] Sending metadata: week3-whiteboard.jpeg|150691
+2025-01-05 16:30:41,515 - ERROR - [Sender] Error during file sending: [WinError 10038] Bir iþlem yuva olmayan bir öðe üzerinde denendi
+2025-01-05 16:50:46,879 - INFO - [Sender] Sending metadata: named.txt|11
+2025-01-05 16:50:46,882 - INFO - [Receiver] Metadata received: named.txt|11
+2025-01-05 16:50:46,884 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/named.txt sent successfully.
+2025-01-05 16:50:46,884 - INFO - [Receiver] File received and saved to received_files\named.txt.
+2025-01-05 16:50:46,884 - INFO - [Sender] Receiver confirmed file received.
+2025-01-05 16:55:32,099 - INFO - [Sender] Sending metadata: named.txt|11
+2025-01-05 16:55:32,100 - INFO - [Receiver] Metadata received: named.txt|11
+2025-01-05 16:55:32,101 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/named.txt sent successfully.
+2025-01-05 16:55:32,101 - INFO - [Receiver] File received and saved to received_files\named.txt.
+2025-01-05 16:55:32,101 - INFO - [Sender] Receiver confirmed file received.
+2025-01-05 16:59:44,421 - INFO - [Sender] Sending metadata: named.txt|11
+2025-01-05 16:59:44,422 - INFO - [Receiver] Metadata received: named.txt|11
+2025-01-05 16:59:44,422 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/named.txt sent successfully.
+2025-01-05 16:59:44,423 - INFO - [Receiver] File received and saved to C:/Users/Dell/Downloads/cs 410 (2)\named.txt.
+2025-01-05 16:59:44,423 - INFO - [Sender] Receiver confirmed file received.
+2025-01-05 17:00:05,496 - INFO - [Sender] Sending metadata: test.txt|13
+2025-01-05 17:00:05,496 - INFO - [Receiver] Metadata received: test.txt|13
+2025-01-05 17:00:05,497 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/test.txt sent successfully.
+2025-01-05 17:00:05,497 - INFO - [Receiver] File received and saved to C:/Users/Dell/Downloads/cs 410 (2)\test.txt.
+2025-01-05 17:00:05,498 - INFO - [Sender] Receiver confirmed file received.
+2025-01-05 17:09:14,502 - INFO - [Sender] Sending metadata: named.txt|11
+2025-01-05 17:09:14,502 - INFO - [Receiver] Metadata received: named.txt|11
+2025-01-05 17:09:14,502 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/named.txt sent successfully.
+2025-01-05 17:09:14,502 - INFO - [Receiver] File received and saved to C:/Users/Dell/Downloads/cs 410 (2)\named.txt.
+2025-01-05 17:09:14,502 - INFO - [Sender] Receiver confirmed file received.
+2025-01-05 17:10:49,999 - INFO - [Sender] Sending metadata: test.txt|13
+2025-01-05 17:10:50,005 - INFO - [Receiver] Metadata received: test.txt|13
+2025-01-05 17:10:50,005 - INFO - [Sender] File C:/Users/Dell/CS447Project/p2p-file-sharing/test.txt sent successfully.
+2025-01-05 17:10:50,005 - INFO - [Receiver] File received and saved to C:/Users/Dell/Downloads/cs 410 (2)\test.txt.
+2025-01-05 17:10:50,005 - INFO - [Sender] Receiver confirmed file received.
+2025-01-05 17:13:42,646 - INFO - [Sender] Sending metadata: calisan_kod.txt|7754
+2025-01-05 17:13:42,646 - INFO - [Receiver] Metadata received: calisan_kod.txt|7754
+2025-01-05 17:13:42,646 - INFO - [Sender] File C:/Users/Dell/Downloads/calisan_kod.txt sent successfully.
+2025-01-05 17:13:42,646 - INFO - [Receiver] File received and saved to C:/Users/Dell/Downloads/cs 410 (2)\calisan_kod.txt.
+2025-01-05 17:13:42,646 - INFO - [Sender] Receiver confirmed file received.
